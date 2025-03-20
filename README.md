@@ -66,4 +66,12 @@ GeoNode es un software GIS. En 2024, se desplegó una instancia de GeoNode en el
 #### 8) Módulo QA
 Question-Answering es una técnica que permite realizar consultas en lenguaje natural sobre una base de datos. Siendo SPARQL el lenguaje de consulta predeterminado para los grafos de conocimiento, se desea aplicar técnicas para poder realizar consultas en lenguaje natural sobre el grafo abstrayéndose del lenguaje de consulta subyacente.
 
+---
+### 🌱 Material de Referencia
+
+- [Construcción de un grafo de conocimiento para un observatorio inmobiliario](https://sedici.unlp.edu.ar/handle/10915/149514)
+- [Detección de duplicados sobre grafos de conocimiento de avisos inmobiliarios](https://sedici.unlp.edu.ar/handle/10915/167230)
+- [Normalización y análisis exploratorio de datos inmobiliarios web](https://sedici.unlp.edu.ar/handle/10915/174478)
+- [Un enfoque para la detección de pares atributo-valor en descripciones en lenguaje natural en el contexto de la oferta inmobiliaria](https://sedici.unlp.edu.ar/handle/10915/165523)
+- [Attribute-Value Extraction: The case of a Real Estate Observatory](https://revistas.unlp.edu.ar/JAIIO/article/view/17910)
 
