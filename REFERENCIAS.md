@@ -1,7 +1,5 @@
 # Material de Referencia
-### 🌱 Se presentan los árticulos de referencia para el proyecto del observatorio inmobiliario
-
----
+### 🌱 Artículos publicados
 
 - [Construcción de un grafo de conocimiento para un observatorio inmobiliario](https://sedici.unlp.edu.ar/handle/10915/149514)
 - [Detección de duplicados sobre grafos de conocimiento de avisos inmobiliarios](https://sedici.unlp.edu.ar/handle/10915/167230)
