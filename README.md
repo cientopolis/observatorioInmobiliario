@@ -5,6 +5,7 @@
 
 ![Módulos](images/modulos.PNG)
 ---
+
 #### 1) Módulo Scraper
 
 ![Scraper](images/scraper.PNG)
@@ -15,6 +16,7 @@ El scraper es un script que permite obtener avisos inmobiliarios publicados en l
 - **Salida:** un archivo CSV
 - **Repositorio:** es privado al momento. LINTA lo ejecuta y nos provee los csv
 ---
+
 #### 2) Módulo AVE
 
 ![Ave](images/ave.PNG)
@@ -25,6 +27,7 @@ El Attribute Value Extraction es el programa que extrae pares atributo-valor de 
 - **Salida:** un archivo CSV con las características detectadas
 - **Repositorio:** [OVS extractor Idis](https://github.com/cientopolis/OVS-extractor-idis)
 ---
+
 #### 3) Módulo Caminero
 
 ![caminero](images/caminero.PNG)
@@ -35,12 +38,14 @@ El caminero consiste en un script que genera coordenadas a partir de una direcci
 - **Salida:** un archivo CSV con las coordenadas  detectadas
 - **Repositorio:** [OVS caminero](https://github.com/cientopolis/OVS-caminero)
 ---
+
 #### 4) Módulo Deduplicador
 El deduplicador es un script que permite hallar inmuebles duplicados, hay dos versiones:
 - **sobre CSV** => Recibe un CSV y devuelve un CSV con los duplicados de una uri. Approach bayesiano que compara ciertos campos del csv.
 - **sobre TTL** => Enfoque inductivo y deductivo de deduplicación del grafo mediante embedding.
 **Extra:** Hay una versión remasterizada en python para ejecutar en Eva. El siguiente documento explica más a detalle el trabajo realizado: [Graph Embeddings](https://docs.google.com/document/d/1GZFBkfj_5YY7em8HMkpv-gNVc4npLvi-oe9HaeFpG6M/edit?tab=t.0#heading=h.4jc0o2quxc0q)
 ---
+
 #### 5) Módulo Mapper
 
 ![Mapper](images/mapper.PNG)
@@ -69,9 +74,5 @@ Question-Answering es una técnica que permite realizar consultas en lenguaje na
 ---
 ### 🌱 Material de Referencia
 
-- [Construcción de un grafo de conocimiento para un observatorio inmobiliario](https://sedici.unlp.edu.ar/handle/10915/149514)
-- [Detección de duplicados sobre grafos de conocimiento de avisos inmobiliarios](https://sedici.unlp.edu.ar/handle/10915/167230)
-- [Normalización y análisis exploratorio de datos inmobiliarios web](https://sedici.unlp.edu.ar/handle/10915/174478)
-- [Un enfoque para la detección de pares atributo-valor en descripciones en lenguaje natural en el contexto de la oferta inmobiliaria](https://sedici.unlp.edu.ar/handle/10915/165523)
-- [Attribute-Value Extraction: The case of a Real Estate Observatory](https://revistas.unlp.edu.ar/JAIIO/article/view/17910)
+- [referencias para alumnos](https://github.com/cientopolis/observatorioInmobiliario/blob/main/REFERENCIAS.md)
 
