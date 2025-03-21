@@ -72,7 +72,7 @@ GeoNode es un software GIS. En 2024, se desplegó una instancia de GeoNode en el
 Question-Answering es una técnica que permite realizar consultas en lenguaje natural sobre una base de datos. Siendo SPARQL el lenguaje de consulta predeterminado para los grafos de conocimiento, se desea aplicar técnicas para poder realizar consultas en lenguaje natural sobre el grafo abstrayéndose del lenguaje de consulta subyacente.
 
 ---
-### 🌱 Material de Referencia
+### 🌱 Espacio para alumn@s
 
 - [referencias para alumnos](https://github.com/cientopolis/observatorioInmobiliario/blob/main/REFERENCIAS.md)
 
