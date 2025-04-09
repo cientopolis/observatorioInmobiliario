@@ -76,5 +76,6 @@ Question-Answering es una técnica que permite realizar consultas en lenguaje na
 
 - [referencias para alumnos](https://github.com/cientopolis/observatorioInmobiliario/blob/main/REFERENCIAS.md)
 
-### Equipos de trabajo
+### Equipos de trabajo 
+[Ir a equipos](/equipos/readme.md) 
 
