@@ -8,4 +8,4 @@
 - [Attribute-Value Extraction: The case of a Real Estate Observatory](https://revistas.unlp.edu.ar/JAIIO/article/view/17910)
 
 ### Slides sobre RDF / RDFS / OWL
-- [Material](observatorioinmobiliario/Slides de la asignatura)
+- [Material](/Slides de la asignatura)
