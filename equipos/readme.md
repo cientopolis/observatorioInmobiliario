@@ -12,12 +12,12 @@ Alfornso Armani, David Matias, Justo Alvarado, Lucia Molina, Juli Ñancufil, Car
 ## LLMs para construir grafos
 Coordinacion: Alvaro Pagano
 
-Jesmar, Francisco Suarez, Damian Biocchi, fede??, Ivan Gonzalez, Cosmos??, Felipe Mass, Mate T?, 
+Jesmar, Francisco Suarez, fede??, Ivan Gonzalez, Cosmos??, Felipe Mass, Mate T?, 
 
 ## LLMs para construir consultas
 Coordinación: Mateo Ibañez
 
-Migue Miesion, Luca Giordano, Francisco Suarez, Dylan Vallejos, Marcos Gerez, Matias Brizzi
+Migue Miesion, Luca Giordano, Francisco Suarez, Dylan Vallejos, Marcos Gerez, Matias Brizzi, Damian Bicocchi
 
 ## Manipulacion del grafo
 Coordinación: Alvaro Pagano
