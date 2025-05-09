@@ -10,7 +10,7 @@ Alfornso Armani, David Matias, Justo Alvarado, Lucia Molina, Juli Ñancufil, Car
   * Instalacion de Geoserver y Geonode en OKD.
 
 ## LLMs para construir grafos
-Coordinacion: Alvaro Pagano
+Coordinacion: Juana Borrelli
 
 Jesmar, Francisco Suarez, fede??, Ivan Gonzalez, Cosmos??, Felipe Mass, Mate T?, 
 
