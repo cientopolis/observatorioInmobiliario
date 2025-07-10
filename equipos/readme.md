@@ -1,7 +1,7 @@
 # Equipos de Trabajo
 
 ## Infraestructura
-Coordinacion: Sais Obregon
+Coordinacion: Luciana 
 
 Alfornso Armani, David Matias, Justo Alvarado, Lucia Molina, Juli Ñancufil, Carolina Alonso, Beatriz Freitas, Tomar Bernardi, Pedro Artola, Joaquin Fontana
 * Actividades
